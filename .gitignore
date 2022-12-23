@@ -1,0 +1,10 @@
+*.iml
+.idea
+*.project
+*.theia
+*.classpath
+*.DS_Store
+
+.settings/
+target/
+bin/
