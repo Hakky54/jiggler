@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/Hakky54/jiggler4j/workflows/Build/badge.svg)](https://github.com/Hakky54/jiggler4j/actions)
 
-# Jiggler4j 🔐
+# Jiggler4j 🪄
 Mouse jiggler for you!
 
 ## Contributing
