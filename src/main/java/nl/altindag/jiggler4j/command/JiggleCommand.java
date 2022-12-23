@@ -1,6 +1,5 @@
 package nl.altindag.jiggler4j.command;
 
-import picocli.CommandLine;
 import picocli.CommandLine.Command;
 
 import java.awt.AWTException;
