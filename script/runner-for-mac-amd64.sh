@@ -12,6 +12,6 @@ getBinaries
 JAVA_HOME=`pwd`"/bin/graalvm/Contents/Home"
 bin/graalvm/Contents/Home/bin/gu install native-image
 bin/maven/bin/mvn clean install -Pnative-image
-cp target/jiggler4j jiggler4j
-tar -czf bin/jiggler4j-macos-amd64.tar.gz jiggler4j
-rm jiggler4j
+cp target/jiggler jiggler
+tar -czf bin/jiggler-macos-amd64.tar.gz jiggler
+rm jiggler

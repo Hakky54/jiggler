@@ -1,4 +1,4 @@
-package nl.altindag.jiggler4j.command;
+package nl.altindag.jiggler.command;
 
 import picocli.CommandLine.Command;
 

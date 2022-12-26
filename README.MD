@@ -1,6 +1,6 @@
-[![Actions Status](https://github.com/Hakky54/jiggler4j/workflows/Build/badge.svg)](https://github.com/Hakky54/jiggler4j/actions)
+[![Actions Status](https://github.com/Hakky54/jiggler/workflows/Build/badge.svg)](https://github.com/Hakky54/jiggler/actions)
 
-# Jiggler4j 🪄
+# Jiggler 🪄
 Mouse jiggler for you!
 
 ## Installing & Usage
@@ -20,8 +20,8 @@ Not yet released
 3. A terminal
 
 **Setup**
-1. Download the latest JAR here: [Releases](https://github.com/Hakky54/jiggler4j/releases)
-2. Run it with `java -jar jiggler4j.jar`
+1. Download the latest JAR here: [Releases](https://github.com/Hakky54/jiggler/releases)
+2. Run it with `java -jar jiggler.jar`
 
 ## Contributing
 
