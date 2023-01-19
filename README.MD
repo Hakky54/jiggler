@@ -5,14 +5,15 @@ Mouse jiggler for you!
 
 ## Installing & Usage
 
-### Using Executable JAR
-**Minimum requirements:**
+### Minimum requirements
 1. Java 8
-3. A terminal
+2. A terminal
 
-**Setup**
-1. Download the latest JAR here: [Releases](https://github.com/Hakky54/jiggler/releases)
-2. Run it with `java -jar jiggler.jar`
+### Get application
+You can either build your own executable with `mvn package` or download the latest JAR here: [Releases](https://github.com/Hakky54/jiggler/releases)
+
+### Usage
+2. Run from your terminal the following command: `java -jar jiggler.jar`
 
 ## Contributing
 
