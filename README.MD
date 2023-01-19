@@ -3,6 +3,9 @@
 # Jiggler 🪄
 Mouse jiggler for you!
 
+## Demo
+![alt text](https://github.com/Hakky54/jiggler/blob/master/images/demo.gif?raw=true)
+
 ## Installing & Usage
 
 ### Mac OS X - Homebrew 🍺
