@@ -3,19 +3,7 @@
 # Jiggler 🪄
 Mouse jiggler for you!
 
-## Demo
-![alt text](https://github.com/Hakky54/jiggler/blob/master/images/demo.gif?raw=true)
-
 ## Installing & Usage
-
-### Mac OS X - Homebrew 🍺
-Not available yet, depending on [GitHub - GraalVM issue #4124](https://github.com/oracle/graal/issues/4124)
-
-### Windows
-Not yet released
-
-### Linux
-Not yet released
 
 ### Using Executable JAR
 **Minimum requirements:**
