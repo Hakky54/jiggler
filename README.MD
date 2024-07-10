@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/Hakky54/jiggler/workflows/Build/badge.svg)](https://github.com/Hakky54/jiggler/actions)
 
-# Jiggler 🪄
+# Jiggler 🪄 🐁
 Mouse jiggler for you!
 
 ## Installing & Usage
